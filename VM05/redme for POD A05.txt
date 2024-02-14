@@ -1,0 +1,3 @@
+Test Pass on VM 05
+veradigm PM application updated with sucessfull testing
+successfully click on Registration and pt Scheduling tab

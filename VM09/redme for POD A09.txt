@@ -1,0 +1,4 @@
+Test Pass on VM 09
+***** Please Note Timout seconds 300 changes to 120 to quick test.******
+veradigm PM application updated code skip with sucessfull testing on old Allscripts PM application.
+successfully click on Registration and pt Scheduling tab

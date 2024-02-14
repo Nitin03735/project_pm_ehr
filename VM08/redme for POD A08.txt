@@ -1,0 +1,7 @@
+Test Pass on VM 08
+***** Please Note Timout seconds 300 changes to 120 to quick test.******
+veradigm PM application updated code skip with sucessfull testing on old Allscripts PM application.
+successfully click on Registration and pt Scheduling tab
+Code tested and copy from VM-A05
+after Pm login it took 4 min to validate Registration and pt Scheduling tab.
+successfully click on Registration and pt Scheduling tab
